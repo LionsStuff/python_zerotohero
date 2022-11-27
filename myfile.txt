@@ -1,3 +1,4 @@
 Hello this is a test file
 Second line
 The third line
+The line number four
